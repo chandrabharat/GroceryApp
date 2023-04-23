@@ -1,6 +1,6 @@
 # **Grocery List App**
 
-This is a grocery list app built using React. The app allows users to add, edit, and delete grocery items to a list.
+This is a grocery list app built using React. The app allows users to add, edit, and delete grocery items to a list. To see the production application visit https://grocerybestie.netlify.app/
 
 ## **Features**
 
