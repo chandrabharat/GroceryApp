@@ -26,7 +26,7 @@ To get started with the app, follow these steps:
 1. Clone the repository to your local machine using git clone https://github.com/chandrabharat/GroceryApp.git.
 2. Install the required dependencies by running npm install.
 3. Start the development server using npm start.
-4. Open the app in your web browser by navigating to http://localhost:3000.
+4. Open the app in your web browser by navigating to http://localhost:3000 or http://localhost:5173.
    Contributing
 
 ## **Contributing**
